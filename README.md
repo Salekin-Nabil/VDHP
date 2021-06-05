@@ -1,0 +1,2 @@
+# VDHP
+We all know that it's very urgent to vaccinate the area where the positive test ratio is greater than the other area. According to this concept, a prioritization-based system with trustworthiness and authenticity has been introduced by using blockchain. This research approach to mitigate the counterfeit test and vaccination passport and a prioritization-based safe vaccination system that ensure effective inoculation based on blockchain.
